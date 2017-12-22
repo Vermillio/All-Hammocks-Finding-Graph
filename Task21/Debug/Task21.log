@@ -1,0 +1,15 @@
+﻿  T_Graph.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task21\task21\t_graph.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task21\task21\t_graph.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task21\task21\t_graph.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task21\task21\t_graph.cpp(47): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task21\task21\t_graph.cpp(107): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task21\task21\t_graph.cpp(113): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task21\task21\t_graph.cpp(127): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task21\task21\t_graph.cpp(140): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task21\task21\t_graph.cpp(195): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  Source.cpp
+  Task21.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task21\Debug\Task21.exe
+  Task21.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task21\Debug\Task21.pdb (Partial PDB)
